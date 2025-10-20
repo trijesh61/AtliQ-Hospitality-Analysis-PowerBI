@@ -82,11 +82,13 @@ The **Monthly View Dashboard** enables management to track trends over time, inc
 ---
 
 ## 💡 Key Insights  
-- 📈 **Revenue & Occupancy Correlation:** Cities with higher occupancy rates showed significantly better revenue performance.  
-- 🏙️ **Top Performers:** Hotel properties such as AtliQ Exotica and AtliQ Bay out-performed others in both revenue and customer satisfaction. :contentReference[oaicite:1]{index=1}  
-- 📉 **Underperforming Properties:** Some locations had consistently low occupancy — these are potential targets for marketing or operational optimisation.  
-- 💰 **Seasonal Trends:** Strong revenue spikes were observed during holiday/seasons, suggesting opportunities for targeted promotions.  
-- ⭐ **Customer Experience Impact:** Hotels with higher customer ratings saw higher repeat booking rates, highlighting the importance of service quality.
+- Mumbai generates the highest revenue (₹669 M) followed by Bangalore, Hyderabad, and Delhi.  
+- AtliQ Exotica performs best among all 7 property types, achieving ₹320 M revenue, 3.62 rating, 57% occupancy, and a 24.4% cancellation rate.  
+- AtliQ Bay records the highest occupancy at 66%.  
+- Week 24 recorded the highest revenue among all weeks, totaling ₹139.6 M.  
+- Delhi leads both in occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.  
+- AtliQ lost approximately ₹298 M due to cancellations.  
+- Elite-type rooms have the most bookings but also show a higher cancellation rate.
 
 ---
 
