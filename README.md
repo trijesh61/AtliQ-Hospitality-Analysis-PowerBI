@@ -1,5 +1,7 @@
 # 🏨 AtliQ Hospitality Analysis – Power BI
 
+🔗 **Live Interactive Dashboard:** https://project.novypro.com/xQl78a
+
 ## 📌 Problem Statement  
 AtliQ Grands owns multiple five-star hotels across India and has been a leader in the hospitality industry for over 20 years. However, due to strategic moves by competitors and ineffective decision-making, the company has recently been losing market share and revenue in the luxury/business hotels category.
 
@@ -106,10 +108,9 @@ This project helped me strengthen my skills in:
 - **Power BI Desktop**  
 - **Excel / CSV Data Sources**  
 - **Power Query (Data Cleaning & Transformation)**  
-- **DAX (Data Analysis Expressions)**
+- **DAX (Data Analysis Expressions)**  
 
----
-
+🔗 **Interactive Dashboard Link:** https://project.novypro.com/xQl78a  
 
 ---
 
@@ -120,4 +121,3 @@ The analysis provided AtliQ Grands with a data-driven approach to improve decisi
 
 👨‍💻 **Developed by:** [Trijesh Kondapuram](https://github.com/trijesh61)  
 📅 **Domain:** Hospitality Analytics | **Tool:** Power BI
-
